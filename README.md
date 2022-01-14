@@ -4,7 +4,7 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-jasonem225
 
 On Heroku: https://jpa02-jasonem225.herokuapp.com/
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-jasonem225
 
 
 # About this repo
